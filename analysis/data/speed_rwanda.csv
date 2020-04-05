@@ -1,0 +1,244 @@
+,location,isp,speed,images,location_cleaned,network_type,isp_cleaned
+0,Nyamirambo ,"['Mango', 'telecom']",4.7 mbps,['http://pbs.twimg.com/media/EU1QH7iX0AAi4bN.jpg'],nyamirambo,,mango
+1,,['@airtelrw'],,['http://pbs.twimg.com/media/EU1FpbZWAAA8g6M.jpg'],,,airtel
+2,Kimironko,[],2.5 Mbps,['http://pbs.twimg.com/media/EU1Dup5WkAAXRpk.jpg'],kimironko,,
+3,Kanombe,[],7.9 Mbps,['http://pbs.twimg.com/media/EU0pEjWXYAQsPF_.jpg'],kanombe,,
+4,,['MTN(3G)'],,['http://pbs.twimg.com/media/EU0KDBDWoAAeGYV.jpg'],,3G,mtn
+5,Muhanga,['Mango'],,['http://pbs.twimg.com/media/EU0DbsYWAAAZEiv.jpg'],muhanga,,mango
+6,,"['Axiom', 'Networks']",,['http://pbs.twimg.com/media/EUz1tgPXsAAwL5w.jpg'],,,axiom
+7,Sonatube,,3 Mbps,['http://pbs.twimg.com/media/EUzvGqNXsAUI_o9.jpg'],sonatube,,
+8,,,,['http://pbs.twimg.com/media/EUzSz9YXYAMs8SW.jpg'],,,
+9,,['MTN'],1.2 Mbps ,['http://pbs.twimg.com/media/EUxfgDvWkAAwKLc.jpg'],,,mtn
+10,Karuruma,['@FastnetISP_RW'],,['http://pbs.twimg.com/media/EUxKnstWsAAqOK9.jpg'],karuruma,,fastnet
+11,kiyovu ISP: MTN https://t.co/J2uVI5muur,['MTN'],,['http://pbs.twimg.com/media/EUxG4xOWkAAJtfc.jpg'],kiyovu,,mtn
+12,Karuruma,"['MTN', '(4G)']",,['http://pbs.twimg.com/media/EUxEyzVXgAADhSr.jpg'],karuruma,4G,mtn
+13,Rubavu.                                       ISP: tnsp                                                         Network:4g https://t.co/dSTSnQ8Tg1,"['tnsp', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', 'Network:4g']",,['http://pbs.twimg.com/media/EUxAYmDXgAA33xl.jpg'],rubavu.,4g,tnsp
+14,Kicukiro ,,3.2Mbps,['http://pbs.twimg.com/media/EUw_rw_XkAEUIKQ.jpg'],kicukiro,,
+15,,,,['http://pbs.twimg.com/media/EUw4GSNWkAEBRp_.jpg'],,,
+16,Kacyiru ,"['Axiom', 'networks']",41 Mbps,['http://pbs.twimg.com/media/EUw2VerX0AAXUem.png'],kacyiru,,axiom
+17,Busanza,['Axiom'],9.3 Mbps,['http://pbs.twimg.com/media/EUw1fKUXgAE3Ddz.jpg'],busanza,,axiom
+18,Kacyiru,['Axiom'],,['http://pbs.twimg.com/media/EUw0W4vXYAAztzc.png'],kacyiru,,axiom
+19,,,,['http://pbs.twimg.com/media/EUwzeqgXsAEMrVX.jpg'],,,
+20,"Ruhuha, Bugesera",,,['http://pbs.twimg.com/media/EUwv74dWoAIlYHx.jpg'],ruhuha,,
+21,kanombe,['Airtel'],,['http://pbs.twimg.com/media/EUwvWc2X0AAa2Q4.png'],kanombe,,airtel
+22,Kibagabaga,"['Airtel', '(4G)']",600 Kbps,['http://pbs.twimg.com/media/EUwvTF4WkAIdsA9.jpg'],kibagabaga,4G,airtel
+23,,,,['http://pbs.twimg.com/media/EUwsRsjWsAEg05C.jpg'],,,
+24,Remera,"['Mango', '', '(4G)']",160 Mbps,['http://pbs.twimg.com/media/EUwpAVCWoAMLWF0.jpg'],remera,4G,mango
+25,Nyamirambo,"['MTN', '4G']",1.1Mbps,['http://pbs.twimg.com/media/EUwjjL4WAAIvtw2.jpg'],nyamirambo,4G,mtn
+26,Rwamagana,"['KT', 'Rwanda', 'Networks']",,['http://pbs.twimg.com/media/EUwh65NWoAIpm4S.jpg'],rwamagana,,kt
+27,Kimironko ,,290 Kbps,['http://pbs.twimg.com/media/EUwh8WSX0AEQBOe.jpg'],kimironko,,
+28,,,,['http://pbs.twimg.com/media/EUwhCknXYAcR3KD.jpg'],,,
+29,Kicukiro,['Fastnet'],4.4 Mbps,['http://pbs.twimg.com/media/EUwgCzHWkAEyAjK.jpg'],kicukiro,,fastnet
+30,,,,['http://pbs.twimg.com/media/EUwf7eqWAAEyrco.jpg'],,,
+31,,,,['http://pbs.twimg.com/media/EUwd1K2WoAAZ5sF.jpg'],,,
+32,Lower Kiyovu ,"['BK', 'Techouse']",4.3Mbps,['http://pbs.twimg.com/media/EUwb4LGXQAIwcEb.jpg'],lower,,bk
+33,kicukiro ,['@MTNRwanda'],2.8Mbps,['http://pbs.twimg.com/media/EUwbbnAXsAENDzj.jpg'],kicukiro,,mtn
+34,,,,['http://pbs.twimg.com/media/EUwYxuNWAAAiZDY.jpg'],,,
+35,,,,['http://pbs.twimg.com/media/EUwVavWXkAEaIWg.jpg'],,,
+36,,,,['http://pbs.twimg.com/media/EUwSZlBWAAE-dsO.jpg'],,,
+37,,,,['http://pbs.twimg.com/media/EUwRV4kXYAA2PG9.jpg'],,,
+38,Musanze (tetagouche) ,['@airtelrw'],11Mbps,['http://pbs.twimg.com/media/EUwQCP2XgAEPwXQ.jpg'],musanze,,airtel
+39,Kicukiro/ Kagarama,"['MTN', '4G']",2.9 mbps,['http://pbs.twimg.com/media/EUwK87bWAAEsWFt.jpg'],kicukiro,4G,mtn
+40,,,,['http://pbs.twimg.com/media/EUwHc2aXgAAESGg.jpg'],,,
+41,Nyarutarama ( next to BAHO Hospital ),['@airtelrw'],"12, 13 Mbps https://t.co/STGNtSyAQS",['http://pbs.twimg.com/media/EUwGzwbWAAEpyCY.jpg'],nyarutarama,,airtel
+42,Remera -Nyabisindu,,3.3Mbps,['http://pbs.twimg.com/media/EUwAOuoWoAAgsBT.jpg'],remera,,
+43,Kicukiro Kagarama,,,['http://pbs.twimg.com/media/EUvzA03XkAEofcw.jpg'],kicukiro,,
+44,Gisozi,['MTN'],4.9 Mbps,['http://pbs.twimg.com/media/EUvq_IIXgAE10OH.jpg'],gisozi,,mtn
+45,Rwamagana District                                                     Speed    : 5.8 Mbps                                         ISP          : 3G @MTNRwanda https://t.co/G96JriFORT,,,['http://pbs.twimg.com/media/EUvqPKhXgAE857i.jpg'],rwamagana,,
+46,Gikondo,['@MTNRwanda'],3.4Mbps(3G),['http://pbs.twimg.com/media/EUvlEHsXgAIuCxm.jpg'],gikondo,,mtn
+47,kabeza kumucyo,['Airtel'],8.6Mbps,['http://pbs.twimg.com/media/EUvd9ceWAAAZFvj.jpg'],kabeza,,airtel
+48,Kacyiru ,"['Airtel', '3G']",2.5Mbps,['http://pbs.twimg.com/media/EUvc_zjWAAE18HW.jpg'],kacyiru,3G,airtel
+49,,,,['http://pbs.twimg.com/media/EUvZvekXYAAB7mZ.jpg'],,,
+50,,,,['http://pbs.twimg.com/media/EUvS_gSXgAAMDtT.jpg'],,,
+51,"Kicukiro Ngoma,  ",['MTN'],490kbps https://t.co/PhVvzsjPr8,['http://pbs.twimg.com/media/EUu5JyFWsAIJuvz.jpg'],kicukiro,,mtn
+52,Rwinkwavu,['Mango'],,['http://pbs.twimg.com/media/EUu0VALXYAIzy8U.jpg'],rwinkwavu,,mango
+53,Gikondo- Nyenyeri,[],6.5 Mbps,['http://pbs.twimg.com/media/EUurtk9X0AAiEr1.jpg'],gikondo,,
+54,Gitega-Nyarugenge,[],80 Kbps,['http://pbs.twimg.com/media/EUulnG-WkAYiH0v.jpg'],gitega,,
+55,Biryogo,['Mango/Ktrn'],3.0 Mbps(metered) 384 Kbps(Actual Speed),['http://pbs.twimg.com/media/EUukH3lWsAI9lWW.jpg'],biryogo,,mango
+56,Gacuriro,['MTN'],8.2 MPs,['http://pbs.twimg.com/media/EUuPoBpXQAAbCoS.jpg'],gacuriro,,mtn
+57,Kanombe,['MTN'],,['http://pbs.twimg.com/media/EUuFs3XWoAo8lbJ.jpg'],kanombe,,mtn
+58,,,,['http://pbs.twimg.com/media/EUuCH9mXQAE5rlL.jpg'],,,
+59,Kibagabaga,[],3.2Mps,['http://pbs.twimg.com/media/EUuB1GMXkAcFdD0.jpg'],kibagabaga,,
+60,Remera,['@airtelrw'],,['http://pbs.twimg.com/media/EUuAkjjXkAMNENR.jpg'],remera,,airtel
+61,Kagarama,['MTN'],1.2 Mbps,['http://pbs.twimg.com/media/EUt--W5WsAcGTCI.jpg'],kagarama,,mtn
+62,Kiyovu,['Mango'],3.3 Mbps,['http://pbs.twimg.com/media/EUt6qnKWkAUrsR9.jpg'],kiyovu,,mango
+63,Kanombe,[],,['http://pbs.twimg.com/media/EUt1qazWkAAwlJt.jpg'],kanombe,,
+64,Kacyiru ,['MTN'],8.0  Mbps,['http://pbs.twimg.com/media/EUtt2SwWsAAUVqR.jpg'],kacyiru,,mtn
+65,,,,['http://pbs.twimg.com/media/EUtq2HzXsAEnnTs.jpg'],,,
+66,,,,['http://pbs.twimg.com/media/EUtglPjXQAQQxCW.jpg'],,,
+67,,,,['http://pbs.twimg.com/media/EUtfNFGXkAAC38J.jpg'],,,
+68,,,,['http://pbs.twimg.com/media/EUtednyXsAUxBTP.jpg'],,,
+69,Gisozi,"['MTN', '3G', '@MTNRwanda']",7.5 mbps,['http://pbs.twimg.com/media/EUtbzj-WoBE8ZCN.jpg'],gisozi,3G,mtn
+70,,[],,['http://pbs.twimg.com/media/EUtXIclWkAEgxr_.jpg'],,,
+71,Kanombe,['MTN'],3.4Mbps,['http://pbs.twimg.com/media/EUtVmSgXgAIXC4E.jpg'],kanombe,,mtn
+72,,,,['http://pbs.twimg.com/media/EUtTdK_WkAA3tY9.jpg'],,,
+73,,,,['http://pbs.twimg.com/media/EUtSxNOWkAkz2yR.jpg'],,,
+74,,"['MTN', '(', '3G', ')']",,['http://pbs.twimg.com/media/EUtOhUjXYAED0wY.jpg'],,3G,mtn
+75,,,,['http://pbs.twimg.com/media/EUtH5_GX0AgQY8w.png'],,,
+76,,,,['http://pbs.twimg.com/media/EUs8OLzWAAMVq9e.jpg'],,,
+77,Kimironko,"['MTN', '4G']",3.3 Mbps,['http://pbs.twimg.com/media/EUs2zRvXsAQfd-i.jpg'],kimironko,4G,mtn
+78,,,8.9 KPBS,['http://pbs.twimg.com/media/EUs1S1GX0AYiUt5.jpg'],,,
+79,Kicukiro Niboyi,,5.7Mbps,['http://pbs.twimg.com/media/EUs02KzWsAEdbwK.jpg'],kicukiro,,
+80,Nyamirambo ,['Netlink'],3.0 Mbps ,['http://pbs.twimg.com/media/EUs0aiWX0AMkoJA.jpg'],nyamirambo,,netlink
+81,Biryogo ,"['Airtel', '/', '3G']",,['http://pbs.twimg.com/media/EUswCwiX0AA-8Rp.jpg'],biryogo,3G,airtel
+82,Muhima behind Ste Famille ,['MTN'],,['http://pbs.twimg.com/media/EUstuRgXkAMeme0.jpg'],muhima,,mtn
+83,Kimironko - mushimire,,1.5KBS🙄 https://t.co/9HVBjbdxEq,['http://pbs.twimg.com/media/EUsqN6XWAAMv4x4.jpg'],kimironko,,
+84,Kimironko,"['MTN', '3G']",3.2 Mbps ,['http://pbs.twimg.com/media/EUspC-2XsAAm5ut.jpg'],kimironko,3G,mtn
+85,Kimironko,"['Airtel', '(3G)']",38Kbps😏,['http://pbs.twimg.com/media/EUslhD_WAAA27yp.jpg'],kimironko,3G,airtel
+86,Kimisagara,"['MTN', '(4G)']",3.9mbps,['http://pbs.twimg.com/media/EUsg2taWkAAXUeg.jpg'],kimisagara,4G,mtn
+87,Gisozi  ISP: MTN 3G Speed: 4.2Mbps https://t.co/ru1s5FYNoL,"['MTN', '3G', 'Speed:', '4.2Mbps']",4.2Mbps https://t.co/ru1s5FYNoL,['http://pbs.twimg.com/media/EUsgw3ZXgAMSviL.jpg'],gisozi,3G,mtn
+88,Muhanga,['Airtel'],160 Kbps,['http://pbs.twimg.com/media/EUsfXe_XQAMiwm1.jpg'],muhanga,,airtel
+89,,,,['http://pbs.twimg.com/media/EUseVYrXQAYl3z7.jpg'],,,
+90,,['@airtelrw'],,['http://pbs.twimg.com/media/EUsdGurX0AYlNYQ.jpg'],,,airtel
+91,bugesera mayange,"['RTN', '', '4G', '@ktRwanda']",230kbps,['http://pbs.twimg.com/media/EUsbJGNWsAIinwi.jpg'],bugesera,4G,rtn
+92,Gacuriro,"['Mango', '4G']",2.2 Mbps,['http://pbs.twimg.com/media/EUsZa4qXYAMqy0S.jpg'],gacuriro,4G,mango
+93,Kacyiru ,,,['http://pbs.twimg.com/media/EUsYIWFXYAIsrTG.jpg'],kacyiru,,
+94,Kimihurura ,,,['http://pbs.twimg.com/media/EUsXmNTXsAExCp-.jpg'],kimihurura,,
+95,Masaka ,[],550 kbps,['http://pbs.twimg.com/media/EUsXTd2XQAArvHC.jpg'],masaka,,
+96,"Kimironko, Bibare ",['@FastnetISP_RW'],21 Mbps ,['http://pbs.twimg.com/media/EUsWkIPWsAIbw_w.jpg'],kimironko,,fastnet
+97,Kacyiru,['MTN'],10 Mbps,['http://pbs.twimg.com/media/EUsUaYDXYAYP-Qi.jpg'],kacyiru,,mtn
+98,Kicukiro ,['MTN'],,['http://pbs.twimg.com/media/EUsTdN6WsAMT6Ul.jpg'],kicukiro,,mtn
+99,Gikondo,,,['http://pbs.twimg.com/media/EUsSN_nXQAAUY-c.jpg'],gikondo,,
+100,,,,['http://pbs.twimg.com/media/EUsSCaAWoAA6n1k.jpg'],,,
+101,kanombe                                          ISP: Mango Telecom https://t.co/ju2jZgWSNo,"['Mango', 'Telecom']",,['http://pbs.twimg.com/media/EUsRSiMWsAUjOGa.jpg'],kanombe,,mango
+102,,,,['http://pbs.twimg.com/media/EUsQ-bXXYAU7sf9.jpg'],,,
+103,Lagos.  ISP:Airtel https://t.co/Pwk3uUmCaJ,['Airtel'],,['http://pbs.twimg.com/media/EUsQPoIWoAA_eRT.jpg'],lagos.,,airtel
+104,Gikondo,['Airtel'],,['http://pbs.twimg.com/media/EUsMigWXQAYbbhg.jpg'],gikondo,,airtel
+105,Kimironko ,['Airtel'],,['http://pbs.twimg.com/media/EUsJaYYXsAEPHDP.jpg'],kimironko,,airtel
+106,Kimisagara,['Airtel'],12 Mbps,['http://pbs.twimg.com/media/EUsHi-3XYAADXWa.jpg'],kimisagara,,airtel
+107,Musanze City,['Mango'],250 Mbps,['http://pbs.twimg.com/media/EUsGH82XQAEuh3S.jpg'],musanze,,mango
+108,Kanombe - Nonko,"['MTN', '-']",2.8Mbps,['http://pbs.twimg.com/media/EUsFTRvXkAQfq17.jpg'],kanombe,,mtn
+109,Kacyiru,['MTN'],1.3 Mbps,['http://pbs.twimg.com/media/EUsFjpjXkAEmbB0.png'],kacyiru,,mtn
+110,Kicukiro Niboye,"['MTN', '😡']",14 kbps,['http://pbs.twimg.com/media/EUsE4NZWoAAtcd_.jpg'],kicukiro,,mtn
+111,Nyamirambo (Kuri 40),"['@airtelrw', '', '3G']",170kbps,['http://pbs.twimg.com/media/EUsD8KPWAAEEgc_.jpg'],nyamirambo,3G,airtel
+112,Gihara/Kamonyi,"['Airtel', '3G']",1.9 Mbps,['http://pbs.twimg.com/media/EUsDsVMXYAEprOQ.jpg'],gihara,3G,airtel
+113,,[],3.2 Mbps,['http://pbs.twimg.com/media/EUsCzhIXYAAEC1v.jpg'],,,
+114,,,,['http://pbs.twimg.com/media/EUsBVX7X0AAWsKU.jpg'],,,
+115,remera,['airtel'],20mps,['http://pbs.twimg.com/media/EUsA9FdX0AIsi0h.jpg'],remera,,airtel
+116,Kacyiru,['MTN'],140Kbps,['http://pbs.twimg.com/media/EUsA3FHWsAMRpyw.jpg'],kacyiru,,mtn
+117,Kacyiru,['Airtel'],,['http://pbs.twimg.com/media/EUsADSFWoAAtyVN.jpg'],kacyiru,,airtel
+118,Nyamirambo,,1.4 Mbps,['http://pbs.twimg.com/media/EUsAA0uXkAU8L-v.jpg'],nyamirambo,,
+119,,,,['http://pbs.twimg.com/media/EUr_gZXXsAEZblz.jpg'],,,
+120,,,,['http://pbs.twimg.com/media/EUr-pUPXgAIbO6V.jpg'],,,
+121,Kabeza,['@airtelrw'],130kbps 😴,['http://pbs.twimg.com/media/EUr9rqoWkAItXmf.jpg'],kabeza,,airtel
+122,Kanombe,['Fastnet'],1.5 Mbps,['http://pbs.twimg.com/media/EUr8GtSXgAEky4L.jpg'],kanombe,,fastnet
+123,,"['MTN', 'mofos']",7.5Mbps,['http://pbs.twimg.com/media/EUr7-fpWsAYY5zo.jpg'],,,mtn
+124,Muhima,['@MangoRwanda'],,['http://pbs.twimg.com/media/EUr7IGfX0AgD_WH.jpg'],muhima,,mango
+125,,,,['http://pbs.twimg.com/media/EUr7CeRWkAUHI_G.jpg'],,,
+126,,,,['http://pbs.twimg.com/media/EUr6-iIXQAAXU5U.jpg'],,,
+127,Kibagabaga ,"['@liquidtelecom', '(Family', 'Entertainment', 'Package', '25']",3.6 Mbps,['http://pbs.twimg.com/media/EUr50FGWoAId2bx.jpg'],kibagabaga,,liquid
+128,Kicukiro https://t.co/g9WcwJgV34,[],,['http://pbs.twimg.com/media/EUr476uXkAIWLr9.jpg'],kicukiro,,
+129,Gisozi hejuru y'U rwibutso,['MTN'],,['http://pbs.twimg.com/media/EUr4d0MXYAMmQ4R.jpg'],gisozi,,mtn
+130,kicukiro,['trukonekt'],,['http://pbs.twimg.com/media/EUr3ntzXQAEI3pI.jpg'],kicukiro,,trueconnect
+131,Kabeza AEE https://t.co/gmZIgppmCD,['Airtel'],490Kps,['http://pbs.twimg.com/media/EUr3bbNWkAEY9Qi.jpg'],kabeza,,airtel
+132,Kabeza AEE https://t.co/WnMrkxJGBH,[],360Kps,['http://pbs.twimg.com/media/EUr3MSwXgAAwwMn.jpg'],kabeza,,
+133,Kabeza,['MTN'],,['http://pbs.twimg.com/media/EUr16NFWsAA7DgV.jpg'],kabeza,,mtn
+134,Rusororo,,,['http://pbs.twimg.com/media/EUr1AkPXgAEEYfr.jpg'],rusororo,,
+135,Huye,"['Mango', 'Telecom']",3.2 Mbps,['http://pbs.twimg.com/media/EUrzGbeUMAc-q83.jpg'],huye,,mango
+136,KARURUMA ,['@MTNRwanda'],,['http://pbs.twimg.com/media/EUryrgpU4AEoz_1.jpg'],karuruma,,mtn
+137,Kacyiru library,,,['http://pbs.twimg.com/media/EUrxCJtU8AEs7zD.jpg'],kacyiru,,
+138,Musanze,[],2.3 Mbps 😑,['http://pbs.twimg.com/media/EUrwabgUcAE6nX2.jpg'],musanze,,
+139,,,,['http://pbs.twimg.com/media/EUrvMYUUMAYDcFe.jpg'],,,
+140,,"['MTN', '(4G)']",3Mbps,['http://pbs.twimg.com/media/EUruxItUcAo3vzK.jpg'],,4G,mtn
+141,Rwamagana ,['Airtel'],3.5Mbps,['http://pbs.twimg.com/media/EUruUHEUwAIWQTk.jpg'],rwamagana,,airtel
+142,,,,['http://pbs.twimg.com/media/EUrtJToUMAEWUL4.jpg'],,,
+143,,[],,['http://pbs.twimg.com/media/EUrsqB9UEAEVd_h.jpg'],,,
+144,,,,['http://pbs.twimg.com/media/EUrsr-mUwAgu1ad.jpg'],,,
+145,Remera,['Airtel'],6.8Mbps,['http://pbs.twimg.com/media/EUrsZwSUMAAaBlJ.png'],remera,,airtel
+146,"busogo, Musanze, north",['Airtel'],1.1 Mbps,['http://pbs.twimg.com/media/EUrsYYtUYAIjTdn.jpg'],busogo,,airtel
+147,Kicukiro,"['@airtelrw', '']",,['http://pbs.twimg.com/media/EUrr781UEAM6TOM.jpg'],kicukiro,,airtel
+148,busogo(Musanze),,,['http://pbs.twimg.com/media/EUrqu0yU4AEwKPd.jpg'],busogo(musanze),,
+149,Rebero,['MTN'],12 Mbps,['http://pbs.twimg.com/media/EUrp8AXUcAIvK3W.jpg'],rebero,,mtn
+150,Kabeza ,[],,['http://pbs.twimg.com/media/EUrp45hUYAAqMPH.jpg'],kabeza,,
+151,,,,['http://pbs.twimg.com/media/EUrpM9aU4AE0_XC.jpg'],,,
+152,Kacyiru https://t.co/GKdePsqfdS,['Mtn'],,['http://pbs.twimg.com/media/EUrojKRUcAIMLzC.jpg'],kacyiru,,mtn
+153,,,,['http://pbs.twimg.com/media/EUroFFBUwAAeeyc.jpg'],,,
+154,Kimironko,"['@airtelrw', '', '-', '3G']",4.9 Mbps,['http://pbs.twimg.com/media/EUrnxweUEAEkiAA.jpg'],kimironko,3G,airtel
+155,Rubilizi https://t.co/OZ6hPaOpmc,[],,['http://pbs.twimg.com/media/EUrnfCQUMAErWWv.jpg'],rubilizi,,
+156,,,,['http://pbs.twimg.com/media/EUrnc0-U0AggqzO.jpg'],,,
+157,,,,['http://pbs.twimg.com/media/EUrmKsQUwAABSN2.jpg'],,,
+158,gikondo,,,['http://pbs.twimg.com/media/EUrl0HeUEAAvcRT.jpg'],gikondo,,
+159,Kicukiro-Niboye,"['MTN', '(4G', 'irekure)']",,['http://pbs.twimg.com/media/EUrlyY-U4AI02Dg.jpg'],kicukiro,4G,mtn
+160,nyamirambo cosmos https://t.co/hSXlW6dU8z,[],,['http://pbs.twimg.com/media/EUrkeQjUcAAQcXz.jpg'],nyamirambo,,
+161,Niboye,"['MTN', 'Rwanda', '3G']",,['http://pbs.twimg.com/media/EUrj0kuUcAAjJt8.jpg'],niboye,3G,mtn
+162,Kacyiru,,,['http://pbs.twimg.com/media/EUrjiThUYAA8Xb-.jpg'],kacyiru,,
+163,Sonatubes ,"['Airtel', '(3G)']",7.8 Mbps,['http://pbs.twimg.com/media/EUriji3UYAc7z4T.jpg'],sonatubes,3G,airtel
+164,Kimironko,[],580 Kbps,['http://pbs.twimg.com/media/EUrhF3WU0AI-sYG.jpg'],kimironko,,
+165,Kicukiro-Niboye,"['MTN', '3G']",,['http://pbs.twimg.com/media/EUrgSSnU8AcFNA6.jpg'],kicukiro,3G,mtn
+166,Kicukiro-Niboye,"['3G', 'Airtel']",,['http://pbs.twimg.com/media/EUre8xmUMAc3V4o.jpg'],kicukiro,3G,airtel
+167,Gisozi,[],2.5 Mbps,['http://pbs.twimg.com/media/EUrergSUwAAaaM9.jpg'],gisozi,,
+168,Kicukiro-Niboye,['Airtel'],4.1Mbps,['http://pbs.twimg.com/media/EUrdpK9U0AEDtdz.jpg'],kicukiro,,airtel
+169,Rusororo,"['@airtelrw', '3G']",,['http://pbs.twimg.com/media/EUrcpGVUcAEGRWJ.jpg'],rusororo,3G,airtel
+170,,,,['http://pbs.twimg.com/media/EUrccr1UMAA2mcF.jpg'],,,
+171,Kimironko,"['Mango', 'Telecom']",,['http://pbs.twimg.com/media/EUrba36UUAAF4B9.jpg'],kimironko,,mango
+172,,"['Liquid', 'Telecom']",13 Mbps ,['http://pbs.twimg.com/media/EUrbSV8UYAAfPRH.jpg'],,,liquid
+173,,['Mango'],2.3 Mbps,['http://pbs.twimg.com/media/EUrbPlDUwAAGwjs.jpg'],,,mango
+174,"Gasabo, Rutunga","['MTN', '4G', 'Irekure(Monthly', 'Unlimited)']",3.1 mbps,['http://pbs.twimg.com/media/EUraf69UcAEsJuQ.jpg'],gasabo,4G,mtn
+175,Gisozi near Kurwibutso,"['MTN', '3G']",240Kbps,['http://pbs.twimg.com/media/EUraFI_U0AEP9Cq.jpg'],gisozi,3G,mtn
+176,,,,['http://pbs.twimg.com/media/EUraDmxUMAAH7i8.jpg'],,,
+177,Kimihurura/Rugando,['MTN'],870 kbps,['http://pbs.twimg.com/media/EUrZmQlVAAA0eb8.jpg'],kimihurura,,mtn
+178,Ruyenzi,['@MTNRwanda'],1.4Mbps,['http://pbs.twimg.com/media/EUrZYXLUcAEdUhL.jpg'],ruyenzi,,mtn
+179,Nyabihu District,"['Mtn', '3G']",3.23; 3.60,['http://pbs.twimg.com/media/EUrVMm-UcAIqpYa.jpg'],nyabihu,3G,mtn
+180,,,,['http://pbs.twimg.com/media/EUrUK9TUEAAM3VE.jpg'],,,
+181,,,,['http://pbs.twimg.com/media/EUrTYbYU0AIWRWX.png'],,,
+182,,,,['http://pbs.twimg.com/media/EUrTFCSVAAct2jG.jpg'],,,
+183,,,,['http://pbs.twimg.com/media/EUrSyaAUwAE_j6u.png'],,,
+184,Remera,"['Mango', '4G']",1.2Mbps,['http://pbs.twimg.com/media/EUrRp1RU4AASELB.jpg'],remera,4G,mango
+185,Kagarama ,['@mtnrwanda'],,['http://pbs.twimg.com/media/EUrRd2TU0AANsOt.jpg'],kagarama,,mtn
+186,Kanombe,['MTN'],2.7 Mbps ,['http://pbs.twimg.com/media/EUrQ5zTU4AA_QTt.jpg'],kanombe,,mtn
+187,Kimironko,"['Truconnect', '4G']",5.7 Mbps,['http://pbs.twimg.com/media/EUrQ3WHUwAIaSqN.jpg'],kimironko,4G,trueconnect
+188,Kisimenti ,"['Airtel', '3G']",,['http://pbs.twimg.com/media/EUrQM_dUcAAKtk-.jpg'],kisimenti,3G,airtel
+189,Nyamirambo,"['Airtel', '3G']",2.4 Mbps,['http://pbs.twimg.com/media/EUrPrZFUcAEq_UZ.jpg'],nyamirambo,3G,airtel
+190,,"['MTN', '3G']","920kbps , ISP: MTN 3G https://t.co/Up9BLf9HxK",['http://pbs.twimg.com/media/EUrPH1RVAAE3U4c.jpg'],,3G,mtn
+191,,,,['http://pbs.twimg.com/media/EUrOTgZU4AE7vcp.jpg'],,,
+192,Gisozi,"['airtel', '3G']",1.3 mbps,['http://pbs.twimg.com/media/EUrOEGBUUAMlbrb.jpg'],gisozi,3G,airtel
+193,,,,['http://pbs.twimg.com/media/EUrNr2aUEAEoowp.jpg'],,,
+194,,,,['http://pbs.twimg.com/media/EUrNcQ2UUAE3UKf.jpg'],,,
+195,Kagarama,"['MTN', '3G']",7.4 Mbps,['http://pbs.twimg.com/media/EUrNHpCUUAErakF.jpg'],kagarama,3G,mtn
+196,Sonatubes,['Airtel'],1.2 Mbps,['http://pbs.twimg.com/media/EUrNAEdU8AAmqzt.jpg'],sonatubes,,airtel
+197,Rubilizi,"['aitell', '3G']",,['http://pbs.twimg.com/media/EUrMnRjUYAA8qEx.jpg'],rubilizi,3G,airtel
+198,Kacyiru https://t.co/awou8X6yME,,,['http://pbs.twimg.com/media/EUrLsKNU8AA1dD-.jpg'],kacyiru,,
+199,,[],8.1 Mbps,['http://pbs.twimg.com/media/EUrLfclUwAEX2B_.jpg'],,,
+200,Rusororo,['Axiom'],,['http://pbs.twimg.com/media/EUrLMXvU4AELI8e.jpg'],rusororo,,axiom
+201,,"['Liquid', 'Telecom']",22 Mbps ,['http://pbs.twimg.com/media/EUrLJoOU8AAkrZ0.jpg'],,,liquid
+202,Nyamata,['MTN'],3.3 Mbps,['http://pbs.twimg.com/media/EUrKxSfUEAA3Xqm.png'],nyamata,,mtn
+203,,,,['http://pbs.twimg.com/media/EUrK2ehU8AUfZC8.png'],,,
+204,Kicukiro/sonatube ,['@airtelrw'],,['http://pbs.twimg.com/media/EUrKR_kUYAAbzlW.jpg'],kicukiro,,airtel
+205,Kak City aka Kacyiru,,,['http://pbs.twimg.com/media/EUrKDzRUMAA2jjT.jpg'],kak,,
+206,Kicukiro,"['Airtel', '3G']",4.5 Mbps,['http://pbs.twimg.com/media/EUrI9ddVAAQTEv0.jpg'],kicukiro,3G,airtel
+207,,"['MTN', 'Rwanda😩']",1.7 Mbps (yarivuye kuri 490kbps),['http://pbs.twimg.com/media/EUrIwU-UUAIdwhy.jpg'],,,mtn
+208,,,,['http://pbs.twimg.com/media/EUrIfVxUYAIFXuY.jpg'],,,
+209,Kimironko https://t.co/GhENnW2bxJ,['TrueConnect'],,['http://pbs.twimg.com/media/EUrH9pZUMAMcUJf.jpg'],kimironko,,trueconnect
+210,Kicukiro (Rebero),"['MTN', '3G']",N/A,['http://pbs.twimg.com/media/EUrIBacUYAAMBlm.jpg'],kicukiro,3G,mtn
+211,Rebero,"['Liquid', 'Home']",,['http://pbs.twimg.com/media/EUrH7qrUcAAGUhN.jpg'],rebero,,liquid
+212,Kicukiro ,"['Mtn', '3G']",3.2Mbps,['http://pbs.twimg.com/media/EUrHvKbUwAICMYC.jpg'],kicukiro,3G,mtn
+213,Kicukiro,['Airtel'],1.3 Mbps,['http://pbs.twimg.com/media/EUrG2E-U8AAVe2t.jpg'],kicukiro,,airtel
+214,Nyamirambo/ Nyakabanda     ,"['Mango', 'Telecom']",,['http://pbs.twimg.com/media/EUrGlodUYAAIdFl.jpg'],nyamirambo,,mango
+215,Ruyenzi       ,['@airtelrw'],120 kbps⬇️ 850 kbps⬆️,['http://pbs.twimg.com/media/EUrFoS9UEAAsQsJ.jpg'],ruyenzi,,airtel
+216,Gisozi,['Airtel'],15Mbps,['http://pbs.twimg.com/media/EUrFg4mUwAAJIOl.jpg'],gisozi,,airtel
+217,Kimironko,"['Airtel', '3G']",1.6Mbps,['http://pbs.twimg.com/media/EUrFEJPU4AAo-YB.jpg'],kimironko,3G,airtel
+218,,,,['http://pbs.twimg.com/media/EUrETNfU0AAfHsR.png'],,,
+219,Gikondo ,"['MTN', 'Rwanda', '(3G)']",3.8 Mbps,['http://pbs.twimg.com/media/EUrEJMcU8AAnAqE.jpg'],gikondo,3G,mtn
+220,Gatsata ,"['Mango', 'Telecom']",1.4 Mbps,['http://pbs.twimg.com/media/EUrDoO2UwAEShqY.png'],gatsata,,mango
+221,,['MTN'],3.7 ,['http://pbs.twimg.com/media/EUrDpCHUwAEtUf6.jpg'],,,mtn
+222,Kagarama,[],65Kbps,['http://pbs.twimg.com/media/EUrDfprU4AAKiY7.jpg'],kagarama,,
+223,Musanze,['Airtel'],,['http://pbs.twimg.com/media/EUrCbssVAAEAGEC.png'],musanze,,airtel
+224,Kicukiro,['@airtelrw'],6.6 Mbps,['http://pbs.twimg.com/media/EUrCBrEUcAADFH_.jpg'],kicukiro,,airtel
+225,Kimironko ,"['MTN', 'Rwanda']",17 Mbps 😀,['http://pbs.twimg.com/media/EUrBbiWU4AAzP2b.png'],kimironko,,mtn
+226,Kanombe- Nyarugunga https://t.co/LoQRcsdBs6,,,['http://pbs.twimg.com/media/EUrBwNOUwAAk0kG.jpg'],kanombe,,
+227,Town,['MTN'],2.8 Mbps,['http://pbs.twimg.com/media/EUrBWPNUYAEIPVV.jpg'],town,,mtn
+228,Kacyiru ,['Liquid'],,['http://pbs.twimg.com/media/EUrBTzAU0AEpaEM.jpg'],kacyiru,,liquid
+229,Gikondo,[],3.9 Mbps (🙂),['http://pbs.twimg.com/media/EUrAO0iUMAAPuox.jpg'],gikondo,,
+230,Gisozi | Gacinjiru       ,['@MTNRwanda'],170 Kbps ⬇️ 460 Kbps ⬆️ ,['http://pbs.twimg.com/media/EUrASm3U8AEFC1b.jpg'],gisozi,,mtn
+231,,[],330 Kbps (☹️),['http://pbs.twimg.com/media/EUq_kqvVAAEBxCq.png'],,,
+232,Gikondo,['MTN'],3.9 Mbps,['http://pbs.twimg.com/media/EUq_sFgVAAIq24z.jpg'],gikondo,,mtn
+233,Rwamagana ,"['MTN', '3G']",3.5 Mbps,['http://pbs.twimg.com/media/EUq-MKtU8AAI532.png'],rwamagana,3G,mtn
+234,,,,['http://pbs.twimg.com/media/EUq8kMyUUAA4dj4.jpg'],,,
+235,,,,['http://pbs.twimg.com/media/EUq7L7SUcAA27tr.jpg'],,,
+236,Nyakabanda,[],1.1 Mbps,,nyakabanda,,
+237,,['Airtel'],9.9 Mbps,,,,airtel
+238,Mumena,"['Mango', 'Telecom']",8.5 Mbps,,mumena,,mango
+239,Gikondo,['MTN'],7.2 Mbps,,gikondo,,mtn
+240,Kimisagara,['Airtel'],1.2 Mbps,,kimisagara,,airtel
+241,Gisozi,"['CB', 'Net']",34 Mbps,,gisozi,,CbNet
+242,Kimironko,[],4.6 Mbps,,kimironko,,
