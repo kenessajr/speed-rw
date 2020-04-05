@@ -4,10 +4,10 @@
 
 Twitter's API doesn't allow you to get replies to a particular tweet. Strange
 but true. But you can use Twitter's Search API to search for tweets that are
-directed at a particular user, and then search through the results to see if 
+directed at a particular user, and then search through the results to see if
 any are replies to a given tweet. You probably are also interested in the
-replies to any replies as well, so the process is recursive. The big caveat 
-here is that the search API only returns results for the last 7 days. So 
+replies to any replies as well, so the process is recursive. The big caveat
+here is that the search API only returns results for the last 7 days. So
 you'll want to run this sooner rather than later.
 
 replies.py will read a line oriented JSON file of tweets and look for replies
@@ -17,7 +17,7 @@ line oriented JSON to stdout:
     ./replies.py tweets.json > replies.json
 
 It also writes a log to replies.log if you are curious what it is doing...which
-can be handy since it will sleep for periods of time to work within the 
+can be handy since it will sleep for periods of time to work within the
 Twitter API quotas.
 
 PS. you'll need to:
@@ -26,14 +26,13 @@ PS. you'll need to:
 
 and then set the following environment variables for it to work:
 
-  - CONSUMER_KEY
-  - CONSUMER_SECRET
-  - ACCESS_TOKEN
-  - ACCESS_TOKEN_SECRET
+  - TWITTER_CONSUMER_KEY
+  - TWITTER_CONSUMER_SECRET
+  - TWITTER_ACCESS_TOKEN
+  - TWITTER_ACCESS_TOKEN_SECRET
 
 """
 
-import sys
 import json
 import time
 import logging
@@ -43,19 +42,22 @@ import urllib.parse
 from os import environ as e
 
 t = twitter.Api(
-    consumer_key=e["CONSUMER_KEY"],
-    consumer_secret=e["CONSUMER_SECRET"],
-    access_token_key=e["ACCESS_TOKEN"],
-    access_token_secret=e["ACCESS_TOKEN_SECRET"],
+    consumer_key=e["TWITTER_CONSUMER_KEY"],
+    consumer_secret=e["TWITTER_CONSUMER_SECRET"],
+    access_token_key=e["TWITTER_ACCESS_TOKEN"],
+    access_token_secret=e["TWITTER_ACCESS_TOKEN_SECRET"],
     sleep_on_rate_limit=True
 )
+
 
 def tweet_url(t):
     return "https://twitter.com/%s/status/%s" % (t.user.screen_name, t.id)
 
+
 def get_tweets(filename):
     for line in open(filename):
         yield twitter.Status.NewFromJsonDict(json.loads(line))
+
 
 def get_replies(tweet):
     user = tweet.user.screen_name
@@ -65,7 +67,8 @@ def get_replies(tweet):
     while True:
         q = urllib.parse.urlencode({"q": "to:%s" % user})
         try:
-            replies = t.GetSearch(raw_query=q, since_id=tweet_id, max_id=max_id, count=100)
+            replies = t.GetSearch(raw_query=q, since_id=tweet_id,
+                                  max_id=max_id, count=1000)
         except twitter.error.TwitterError as e:
             logging.error("caught twitter api error: %s", e)
             time.sleep(60)
@@ -82,9 +85,10 @@ def get_replies(tweet):
         if len(replies) != 100:
             break
 
+
 if __name__ == "__main__":
     logging.basicConfig(filename="replies.log", level=logging.INFO)
-    tweets_file = sys.argv[1]
+    tweets_file = 'tweets.json'
     for tweet in get_tweets(tweets_file):
         for reply in get_replies(tweet):
-            print(reply.AsJsonString())
+            print(reply.AsDict())
