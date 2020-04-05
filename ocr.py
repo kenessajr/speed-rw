@@ -5,6 +5,7 @@ import numpy as np
 import pytesseract
 from PIL import Image
 
+# To launch this script:  python ocr.py -i path/to/image
 
 def text_localization(image):
     image = cv2.cvtColor(image, cv2.COLOR_BGR2GRAY)
