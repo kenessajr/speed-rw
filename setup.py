@@ -23,7 +23,7 @@ setup(
     long_description_content_type='text/markdown',
     install_requires=[
         'pytesseract==0.3.3',
-        'numpy==1.18.2'
+        'pandas==0.25.3'
     ],
     extras_require={
         'test': [
